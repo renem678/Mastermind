@@ -1,0 +1,15 @@
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/bin/Debug/net7.0/Mastermind
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/bin/Debug/net7.0/Mastermind.deps.json
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/bin/Debug/net7.0/Mastermind.runtimeconfig.json
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/bin/Debug/net7.0/Mastermind.dll
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/bin/Debug/net7.0/Mastermind.pdb
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.csproj.AssemblyReference.cache
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.AssemblyInfoInputs.cache
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.AssemblyInfo.cs
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.csproj.CoreCompileInputs.cache
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.dll
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/refint/Mastermind.dll
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.pdb
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/Mastermind.genruntimeconfig.cache
+/Users/renemarquez/Projects/Mastermind1/Mastermind/Mastermind/obj/Debug/net7.0/ref/Mastermind.dll
